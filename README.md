@@ -27,8 +27,9 @@ I am currently a Teaching Fellow at Fullstack Academy, mentoring students and ov
 
 
 ## Get in Touch 📫 
-
-
+<a href="https://www.linkedin.com/in/helen-sung/"><img width="22px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
+<a href="mailto:helenjeehosung@gmail.com?"><img width="22px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/></a>                                                                                                                                        
+                                                                                                                                           
 <!--
 **helsung/helsung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
