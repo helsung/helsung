@@ -1,12 +1,12 @@
-### Hi there, I'm Helen 👋
+## Hi there, I'm Helen 👋
 
-## About Me 👩🏻‍💻
+### About Me 👩🏻‍💻
 
 I am an ex-media professional turned software engineer and am passionate on bringing creativity to life through tech. Inspired by the ability to _build_ things, I am always excited to get my hands dirty to learn awesome new technologies 🤘 
 
 I am currently a Teaching Fellow at Fullstack Academy, mentoring students and overseeing agile development project teams as a technical advisor. 
 
-## Languages and Tools ✨
+### Languages and Tools ✨
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
@@ -26,7 +26,7 @@ I am currently a Teaching Fellow at Fullstack Academy, mentoring students and ov
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-## Get in Touch 📫 
+### Get in Touch 📫 
 <a href="https://www.linkedin.com/in/helen-sung/"><img width="22px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
 <a href="mailto:helenjeehosung@gmail.com?"><img width="22px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/></a>                                                                                                                                        
                                                                                                                                            
