@@ -4,7 +4,6 @@
 
 I am an ex-media professional turned software engineer and am passionate on bringing creativity to life through tech. Inspired by the ability to _build_ things, I am always excited to get my hands dirty to learn awesome new technologies 🤘 
 
-I am currently a Teaching Fellow at Fullstack Academy, mentoring students and overseeing agile development project teams as a technical advisor. 
 
 ### Languages and Tools ✨
 
